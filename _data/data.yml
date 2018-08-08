@@ -67,7 +67,7 @@ experiences:
           - HTML 5, CSS3, javascript (Certificação Microsoft)
           - Typescript
           - Criação de componentes (Angular e .NET)
-          - Configuração e instalação do SonarQube, TFS e NPM Privado
+          - Configuração e instalação do SonarQube, TFS (GIT e TFVC) e NPM Privado
           - Visual Studio, Visual Studio Core e Eclipse
           - Configuração de repositório Maven Privado (Nexus) para build automático via TFS
 
