@@ -27,18 +27,12 @@ sidebar:
       - idiom: English
         level: Técnico
         
-    # interests:
-    #   - item: Climbing
-    #     link:
-
-    #   - item: Snowboarding
-    #     link:
-
-    #   - item: Cooking
-    #     link:
+    interests:
+      - item: Angular
+        link: angular.io
 
 career-profile:
-    - title: SEFAZ - Secreataria da Fazenda do Estado da Bahia
+    title: Career Profile
     summary: |
       Arquiteto de software responsável por definição das tecnologias a serem utilizadas no ambiente de desenvolvimento.
       Configuração e gerenciamento do TFS, Sonar, NPM Privado.
@@ -51,48 +45,40 @@ education:
       time: 2000 - 2004
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Arquiteto de Sistemas Sênior
+      time: 2010 - Atual
+      company: SEFAZ - Secretaria da Fazenda do Estado da Bahia, Brasil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Arquiteto de software responsável por definição das tecnologias a serem utilizadas no ambiente de desenvolvimento.
+        Suporte de 3º nível à equipe de Desenvolvimento.
+        Instrutor de treinamentos internos (Angular, C#, TFS, HTML5, CSS e Javascript)
+        Desenvolvimento dos Serviços de Autenticação e Controle de acesso.
+        Desenvolvimento dos frameworks ASLIB Angular, ASLibrary webForms e ASLIB.ORM utilizados para facilitar o desenvolvimento.
+        Criação do componente de identificação de dados de Certificados Digitais para qualquer certificado ICP Brasil.
 
-          - Bullet point
-          - Bullet point 
+          - .NET Framework C# (Experiência desde 2001)
+          - .NET Core 1.0 e 2.0.x
+          - Sql Server
+          - Angular 2, 4, 5 e 6 (Avançado criação de sistemas e <a href="https://github.com/morc3go/environment" target="_blank" rel="nofollow">componentes</a>)
+          - HTML 5, CSS3, javascript (Certificação Microsoft)
+          - Typescript
+          - Criação de componentes (Angular e .NET)
+          - Configuração e instalação do SonarQube, TFS e NPM Privado 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Analista de Sistemas Sênior
+      time: 2009 - 2010
+      company: Planserv, Bahia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Analista de sistemas responsável pela equipe de desenolvimento de Dellphi e .NET.
+        Gerenciando a equipe de desenvolvimento para migração do site em asp para o novo site C#.
+        Desenvolvimento da ferramenta de configuração e implantação do sistema de Biometria para beneficiários.
+        
+          - .NET Framework C#
+          - Oracle
+          - HTML 5, CSS3, javascript (Certificação Microsoft)
+          - Delphi (Expert)
+          - Certificado Digital
+          - Criação de componentes (.NET)
 
 projects:
     title: Projects
@@ -122,34 +108,14 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: .NET C#
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Javascript
         level: 98%
 
       - name: Angular
@@ -158,11 +124,20 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Delphi
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Sql Server
+        level: 85%        
+
+      - name: Java
         level: 60%
 
+      - name: Asp
+        level: 85%
+
+      - name: PHP
+        level: 50%        
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
