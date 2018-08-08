@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -21,7 +21,7 @@ sidebar:
     # bitbucket: #
     # twitter: '@ayslanjohnson'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    # codewars: #
+    codewars: ayslanjohnson
 
     languages:
       - idiom: English
@@ -34,13 +34,15 @@ sidebar:
       - item: .NET Core
         link: https://docs.microsoft.com/pt-br/dotnet/core/
 
+      - item: Material design
+        link: https://material.io/tools/icons/?style=baseline
 
 career-profile:
     title: Perfil profissional
     summary: |
       Arquiteto de software, com 20 anos de experiência, apaixonado por novas tecnologias.
       Não importa a dificuldade do projeto, mas sim o prazer de vê-lo entregue com qualidade e garantia de segurança.
-      Microsoft Specialist - MCP HTML5, CSS3 e javascript, Full stack developer.
+      Microsoft Certified Professional, Microsoft Specialist, Full stack developer.
       Desenvolvimento em .NET C# desde 2001. Instalaçã, configuração e gerenciamento do TFS ALM, CI e CD, SonarQube e NPM Privado.
 
 education:
@@ -59,6 +61,7 @@ experiences:
         Desenvolvimento dos Serviços de Autenticação e Controle de acesso.
         Desenvolvimento dos frameworks ASLIB Angular, ASLibrary webForms e ASLIB.ORM utilizados para facilitar o desenvolvimento.
         Criação do componente de identificação de dados de Certificados Digitais para qualquer certificado ICP Brasil.
+        Participação da equipe de Arquitetura do Nota Premiada Bahia. 
 
           - .NET Framework C# (Experiência desde 2001)
           - .NET Core 1.0 e 2.0.x
@@ -180,6 +183,9 @@ skills:
 
       - name: PHP
         level: 50%        
+
+      - name: Microsoft Azure
+        level: 60%    
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://ayslanjohnson.github.io/" target="_blank" rel="nofollow">Ayslan Johnson</a>
