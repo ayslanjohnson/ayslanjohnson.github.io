@@ -19,7 +19,7 @@ sidebar:
     github: ayslanjohnson
     # gitlab: #
     # bitbucket: #
-    twitter: '@ayslanjohnson'
+    # twitter: '@ayslanjohnson'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars: #
 
@@ -29,15 +29,19 @@ sidebar:
         
     interests:
       - item: Angular
-        link: angular.io
+        link: https://angular.io
+
+      - item: .NET Core
+        link: https://docs.microsoft.com/pt-br/dotnet/core/
+
 
 career-profile:
-    title: Career Profile
+    title: Perfil profissional
     summary: |
-      Arquiteto de software responsável por definição das tecnologias a serem utilizadas no ambiente de desenvolvimento.
-      Configuração e gerenciamento do TFS, Sonar, NPM Privado.
-      Desenvolvimento dos Serviços de Autenticação e Controle de acesso.
-      Desenvolvimento dos frameworks ASLIB Angular, ASLibrary webForms e ASLIB.ORM utilizados para facilitar o desenvolvimento.
+      Arquiteto de software, com 20 anos de experiência, apaixonado por novas tecnologias.
+      Não importa a dificuldade do projeto, mas sim o prazer de vê-lo entregue com qualidade e garantia de segurança.
+      Microsoft Specialist - MCP HTML5, CSS3 e javascript, Full stack developer.
+      Desenvolvimento em .NET C# desde 2001. Instalaçã, configuração e gerenciamento do TFS ALM, CI e CD, SonarQube e NPM Privado.
 
 education:
     - degree: Bacharelado em Ciências da Computação e Informática
@@ -63,7 +67,9 @@ experiences:
           - HTML 5, CSS3, javascript (Certificação Microsoft)
           - Typescript
           - Criação de componentes (Angular e .NET)
-          - Configuração e instalação do SonarQube, TFS e NPM Privado 
+          - Configuração e instalação do SonarQube, TFS e NPM Privado
+          - Visual Studio, Visual Studio Core e Eclipse
+          - Configuração de repositório Maven Privado (Nexus) para build automático via TFS
 
     - role: Analista de Sistemas Sênior
       time: 2009 - 2010
@@ -80,36 +86,72 @@ experiences:
           - Certificado Digital
           - Criação de componentes (.NET)
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    - role: Gerente de tecnologia
+      time: 2006 - 2008
+      company: GO Comunicações, Bahia
+      details: |
+        Responsável pela implantação do servidor Mac e desenvolvimento do sistema de solicitações de clientes.
+        Também responsável pelo setor de Arte finalização e Criação de campanhas artes gráficas 
+        CFA - Conselho Federal de Administração, Primordial e Honda Imperial     
+        
+          - .NET Framework C#
+          - Mac OSX, Mac OS Server
+          - Photoshop, Illustrator, Corel
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - role: Supervisor de Informática
+      time: 2006 - 2010
+      company: SAMU 192, Bahia
+      details: |
+        Analista de sistemas responsável pela equipe de suporte e desenvolvimento.
+        Gerenciando a equipe de TI para suporte 24h, responsável por integridade e disponibilidade do sistema de atendimento, 
+        rede, servidores e atendimento de chamados relacionados à área de TI.
+        Desenvolvimento de sistema para autenticação via Biometria, controle de ocorrências, 
+        Configuração de perfil móvel LDAP.        
+        
+          - .NET Framework C#
+          - SQL Server e MySql
+          - Delphi (Expert)
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: Analista de sistemas Sênior
+      time: 2005 - 2006
+      company: Faculdade Batista Brasileira, Bahia
+      details: |
+        Desenvolvimento do portal institucional (Migração de Asp para C# ASPX)   
+        
+          - .NET Framework C#
+          - SQL Server
+          - ASP e ASPX
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Competências e Proficiência
 
     toolset:
       - name: .NET C#
@@ -140,4 +182,4 @@ skills:
         level: 50%        
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://ayslanjohnson.github.io/" target="_blank" rel="nofollow">Ayslan Johnson</a>
