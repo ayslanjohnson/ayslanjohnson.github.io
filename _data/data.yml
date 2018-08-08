@@ -42,8 +42,9 @@ career-profile:
     summary: |
       Arquiteto de software, com 20 anos de experiência, apaixonado por novas tecnologias.
       Não importa a dificuldade do projeto, mas sim o prazer de vê-lo entregue com qualidade e garantia de segurança.
+      
       Microsoft Certified Professional, Microsoft Specialist, Full stack developer.
-      Desenvolvimento em .NET C# desde 2001. Instalaçã, configuração e gerenciamento do TFS ALM, CI e CD, SonarQube e NPM Privado.
+      Instalação, configuração e gerenciamento do TFS ALM, CI e CD integrado com SonarQube e NPM Privado.
 
 education:
     - degree: Bacharelado em Ciências da Computação e Informática
