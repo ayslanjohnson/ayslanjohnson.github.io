@@ -38,8 +38,7 @@ sidebar:
     #     link:
 
 career-profile:
-    title: SEFAZ - Secreataria da Fazenda do Estado da Bahia
-    time: 2010 - atual
+    - title: SEFAZ - Secreataria da Fazenda do Estado da Bahia
     summary: |
       Arquiteto de software responsável por definição das tecnologias a serem utilizadas no ambiente de desenvolvimento.
       Configuração e gerenciamento do TFS, Sonar, NPM Privado.
