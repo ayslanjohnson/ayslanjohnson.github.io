@@ -169,6 +169,12 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
+      - name: Microsoft Azure
+        level: 60%
+
+      - name: Typescript
+        level: 90%   
+
       - name: Delphi
         level: 90%
 
@@ -184,8 +190,7 @@ skills:
       - name: PHP
         level: 50%        
 
-      - name: Microsoft Azure
-        level: 60%    
+  
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://ayslanjohnson.github.io/" target="_blank" rel="nofollow">Ayslan Johnson</a>
