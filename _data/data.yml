@@ -40,7 +40,7 @@ sidebar:
 career-profile:
     title: Perfil profissional
     summary: |
-      Arquiteto de software, com 20 anos de experiência, apaixonado por novas tecnologias.
+      Arquiteto de software, com 22 anos de experiência, apaixonado por novas tecnologias.
       Não importa a dificuldade do projeto, mas sim o prazer de vê-lo entregue com qualidade e garantia de segurança.
       
       Microsoft Certified Professional, Microsoft Specialist, Full stack developer.
@@ -51,9 +51,22 @@ education:
       university: Ruy Barbosa
       time: 2000 - 2004
 
-experiences:
+experiences: 
+  - role: Líder Técnico
+    time: 2018 - Atual
+    company: Pixeon Medical Systems S.A
+    details: |
+      Lideraça e gerenciamento de time com profissionais de tecnologia especializados, 
+      com foco na garantia de qualidade e segurança de todos os produtos em todos os segmentos (HIS, RIS e LIS), 
+      estabelecendo padrões, processos/procedimentos e monitoramento, buscando alcançar excelência na qualidade de produtos 
+      e serviços.
+      
+        - Manutenção e evolução dos produtos
+        - Inovação e eficiência ( melhoria de processos/performance e criação de ferramentas para acelerar/automatizar a implantação )
+        - Consultoria de infraestrutura para melhoria de performance em ambientes do cliente        
+
     - role: Arquiteto de Sistemas Sênior
-      time: 2010 - Atual
+      time: 2010 - 2018
       company: SEFAZ - Secretaria da Fazenda do Estado da Bahia, Brasil
       details: |
         Arquiteto de software responsável por definição das tecnologias a serem utilizadas no ambiente de desenvolvimento.
@@ -62,7 +75,7 @@ experiences:
         Desenvolvimento dos Serviços de Autenticação e Controle de acesso.
         Desenvolvimento dos frameworks ASLIB Angular, ASLibrary webForms e ASLIB.ORM utilizados para facilitar o desenvolvimento.
         Criação do componente de identificação de dados de Certificados Digitais para qualquer certificado ICP Brasil.
-        Participação da equipe de Arquitetura do Nota Premiada Bahia. 
+        Participação da equipe do Nota Premiada Bahia (Definição de arquitetura e desenvolvimento do framework). 
 
           - .NET Framework C# (Experiência desde 2001)
           - .NET Core 1.0 e 2.0.x
@@ -125,7 +138,6 @@ experiences:
           - .NET Framework C#
           - SQL Server
           - ASP e ASPX
-
 # projects:
 #     title: Projects
 #     intro: >
