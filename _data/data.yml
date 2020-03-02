@@ -50,18 +50,18 @@ education:
       time: 2000 - 2004
 
 experiences: 
-  - role: Líder Técnico
-    time: 2018 - Atual
-    company: Pixeon Medical Systems S.A
-    details: |
-      Lideraça e gerenciamento de time com profissionais de tecnologia especializados, 
-      com foco na garantia de qualidade e segurança de todos os produtos em todos os segmentos (HIS, RIS e LIS), 
-      estabelecendo padrões, processos/procedimentos e monitoramento, buscando alcançar excelência na qualidade de produtos 
-      e serviços.
-      
-        - Manutenção e evolução dos produtos
-        - Inovação e eficiência ( melhoria de processos/performance e criação de ferramentas para acelerar/automatizar a implantação )
-        - Consultoria de infraestrutura para melhoria de performance em ambientes do cliente        
+    - role: Líder Técnico
+      time: 2018 - Atual
+      company: Pixeon Medical Systems S.A
+      details: |
+        Lideraça e gerenciamento de time com profissionais de tecnologia especializados, 
+        com foco na garantia de qualidade e segurança de todos os produtos em todos os segmentos (HIS, RIS e LIS), 
+        estabelecendo padrões, processos/procedimentos e monitoramento, buscando alcançar excelência na qualidade de produtos 
+        e serviços.
+        
+          - Manutenção e evolução dos produtos
+          - Inovação e eficiência ( melhoria de processos/performance e criação de ferramentas para acelerar/automatizar a implantação )
+          - Consultoria de infraestrutura para melhoria de performance em ambientes do cliente        
 
     - role: Arquiteto de Sistemas Sênior
       time: 2010 - 2018
