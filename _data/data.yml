@@ -19,13 +19,16 @@ sidebar:
     # bitbucket: #
     # twitter: '@ayslanjohnson'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: ayslanjohnson
+    codewars: ayslanjohnson    
 
     languages:
       - idiom: English
         level: Técnico
         
     interests:
+      - item: Certificações Microsoft
+        link: https://www.youracclaim.com/users/ayslan-johnson/badges
+        
       - item: Angular
         link: https://angular.io
 
