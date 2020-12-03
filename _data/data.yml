@@ -6,7 +6,7 @@ sidebar:
 
     # Profile information
     name: Ayslan Johnson
-    tagline: Arquiteto de Software Sênior  Full Stack Developer
+    tagline: Líder Técnico / Arquiteto de Sistemas Sênior
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -38,11 +38,11 @@ sidebar:
 career-profile:
     title: Perfil profissional
     summary: |
-      Arquiteto de software, com 22 anos de experiência, apaixonado por novas tecnologias.
+      Arquiteto de sistemas, com 22 anos de experiência, apaixonado por novas tecnologias.
       Não importa a dificuldade do projeto, mas sim o prazer de vê-lo entregue com qualidade e garantia de segurança.
       
-      Microsoft Certified Professional, Microsoft Specialist, Full stack developer.
-      Instalação, configuração e gerenciamento do TFS ALM, CI e CD integrado com SonarQube e NPM Privado.
+      MCSA: Web Applications - Certified 2020, Microsoft Specialist. 
+      Azure DevOps, CI e CD, Inspeção de código automatizada com SonarQube e NPM Privado.
 
 education:
     - degree: Bacharelado em Ciências da Computação e Informática
@@ -50,8 +50,21 @@ education:
       time: 2000 - 2004
 
 experiences: 
+    - role: Arquiteto de Sistemas - Coordenador de Desenvolvimento
+      time: 2020 - Atual
+      company: PhDsoft Tecnology
+      details: |
+        Lideraça e gerenciamento de time com profissionais de tecnologia especializados, 
+        Desenvolvimento de framework .net core Onion Architecture com CQRS e Mediator para Backend e Template/Framework Angular Frontend com Three.js para
+        renderização de modelos geométricos em 3D - DigitalTwin. Arquitetura baseada em microserviços Microserviços, 
+        Azure DevOps, Azure Storage, Azure Hub, CosmosDB. 
+        
+          - Desenvolvimento de toda a arquitetura para migração do sistema desktop para web
+          - Acompanhamento e apoio técnico ao time de desenvolvimento
+          - Apoio ao time para desenvolvimento de plugins para softwares de CAD voltados a Engenharia Naval
+          
     - role: Líder Técnico
-      time: 2018 - Atual
+      time: 2018 - 2020
       company: Pixeon Medical Systems S.A
       details: |
         Lideraça e gerenciamento de time com profissionais de tecnologia especializados, 
@@ -62,6 +75,7 @@ experiences:
           - Manutenção e evolução dos produtos
           - Inovação e eficiência ( melhoria de processos/performance e criação de ferramentas para acelerar/automatizar a implantação )
           - Consultoria de infraestrutura para melhoria de performance em ambientes do cliente        
+          - Utilização do Jira, criação de dashboards dinâmicos
 
     - role: Arquiteto de Sistemas Sênior
       time: 2010 - 2018
