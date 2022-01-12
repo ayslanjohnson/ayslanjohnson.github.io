@@ -11,7 +11,6 @@ sidebar:
 
     # Sidebar links
     email: ayslanjohnson@gmail.com
-    phone: +55 71 98850-8559
     website: ayslanjohnson.github.io #do not add http://
     linkedin: ayslanjohnson
     github: ayslanjohnson
@@ -41,7 +40,7 @@ sidebar:
 career-profile:
     title: Perfil profissional
     summary: |
-      Arquiteto de sistemas, com 22 anos de experiência, apaixonado por novas tecnologias.
+      Arquiteto de sistemas, com 23 anos de experiência, apaixonado por novas tecnologias.
       Não importa a dificuldade do projeto, mas sim o prazer de vê-lo entregue com qualidade e garantia de segurança.
       
       <a href="https://www.youracclaim.com/users/ayslan-johnson/badges" target="_blank"><strong><u>MCSA: Web Applications - Certified 2020, Microsoft Specialist</u></strong></a>. 
@@ -55,8 +54,19 @@ education:
       time: 2000 - 2004
 
 experiences: 
+    - role: Coordenador Especialista
+      time: 2021 - Atual
+      company: ACP Group - SEFAZ-BA
+      details: |
+        Coordenação de equipe de especialistas: Infraestrutura, Segurança, Banco de Dados, Redes, ITSM, Arquitetura de Sistemas e Suporte.
+        Atuação com tecnologias Microsoft, Fortinet, Netbackup, Citrix, Zabbix, Sonar Qube, AzureDevOps, VMWare, e outras.
+        
+          - Gerenciamento de demandas e planejamento de cronograma.
+          - Acompanhamento e apoio técnico ao time de especialistas nas diversas áraeas.
+          - Reunião com o cliente para definição de prioridades, entendimento das demandas, planejamento de execução e implantação.
+          
     - role: Arquiteto de Sistemas - Coordenador de Desenvolvimento
-      time: 2020 - Atual
+      time: 2020 - 2021
       company: PhDsoft Tecnology
       details: |
         Lideraça e gerenciamento de time com profissionais de tecnologia especializados, 
