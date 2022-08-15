@@ -1,12 +1,19 @@
-
 {% assign education = site.data.data.education %}
 {% if education %}
   {% if site.data.data.sidebar.education %}
   <div class="education-container container-block">
 
     <h2 class="container-block-title">
-      Certificações
+      Graduação
     </h2>
+
+    {% for graduation in education %}
+    <div class="item">
+      <h4 class="degree">{{ graduation.degree }}</h4>
+      <h5 class="meta">{{ graduation.university }}</h5>
+      <div class="time">{{ graduation.time }}</div>
+    </div><!--//item-->
+    {% endfor %}
 
   </div><!--//education-container-->
   {% else %}
@@ -17,87 +24,31 @@
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
       </span>
-      Certificações
+      Education
     </h2>
 
-    <div class="data-table data-table-grid data-table__tweak-no-margin">
-        <div class="data-table__rows data-table-grid__rows" style="
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    align-items: center;
-    align-content: center;
-">
-            <div style="display: flex;
-            flex-direction: column;">
-                <div class="data-table-row data-table-row-grid data-table-row__tweak-no-margin">
-                    <div class="col data-table-content data-table-content__no-margin data-table-content-grid">
-                        <a class="cr-public-earned-badge-grid-item c-grid-item" title="Exam 480: Programming in HTML5 with JavaScript and CSS3" href="/badges/664bfc6d-0fe2-48e0-9602-b1d493d947f2">
-                            <div class="cr-public-earned-badge-grid-item__container">
-                                <div class="cr-standard-grid-item-content c-badge c-badge--medium"><img class="cr-standard-grid-item-content__image" src="https://images.credly.com/size/220x220/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" width="110" alt="Exam 480: Programming in HTML5 with JavaScript and CSS3" height="110"></div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="data-table-row data-table-row-grid data-table-row__tweak-no-margin">
-                    <div class="col data-table-content data-table-content__no-margin data-table-content-grid">
-                        <a class="cr-public-earned-badge-grid-item c-grid-item" title="Scrum Foundation Professional Certificate - SFPC™" href="/badges/245f3030-9518-40d3-ad9e-3770caad50af">
-                            <div class="cr-public-earned-badge-grid-item__container">
-                                <div class="cr-standard-grid-item-content c-badge c-badge--medium"><img class="cr-standard-grid-item-content__image" src="https://images.credly.com/size/220x220/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" width="110" alt="CertiProf Scrum Foundation Professional Certificate - SFPC™" height="110"></div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div style="display: flex;
-            flex-direction: column;">
-                <div class="data-table-row data-table-row-grid data-table-row__tweak-no-margin">
-                    <div class="col data-table-content data-table-content__no-margin data-table-content-grid">
-                        <a class="cr-public-earned-badge-grid-item c-grid-item" title="Exam 486: Developing ASP.NET MVC Web Applications" href="/badges/0b6e1353-aae1-4b2b-9ad6-1a6a9fbed9df">
-                            <div class="cr-public-earned-badge-grid-item__container">
-                                <div class="cr-standard-grid-item-content c-badge c-badge--medium"><img class="cr-standard-grid-item-content__image" src="https://images.credly.com/size/220x220/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png" width="110" alt="Exam 486: Developing ASP.NET MVC Web Applications" height="110"></div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="data-table-row data-table-row-grid data-table-row__tweak-no-margin">
-                    <div class="col data-table-content data-table-content__no-margin data-table-content-grid">
-                        <a class="cr-public-earned-badge-grid-item c-grid-item" title="Fundamentos Na Lei Geral De Proteção De Dados - LGPDF™" href="/badges/37c17c4e-65cd-46f2-a418-df58a879f1d9">
-                            <div class="cr-public-earned-badge-grid-item__container">
-                                <div class="cr-standard-grid-item-content c-badge c-badge--medium"><img class="cr-standard-grid-item-content__image" src="https://images.credly.com/size/220x220/images/9b597652-5359-4187-86dc-9eee5d779741/Fundamentos-Na-Lei-Geral-De-Prote%C3%A7%C3%A3o-De-Dados---LGPDF.png" width="110" alt="Fundamentos Na Lei Geral De Proteção De Dados - LGPDF™" height="110"></div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div style="display: flex;
-                flex-direction: column;">
-                <div class="data-table-row data-table-row-grid data-table-row__tweak-no-margin">
-                    <div class="col data-table-content data-table-content__no-margin data-table-content-grid">
-                        <a class="cr-public-earned-badge-grid-item c-grid-item" title="MCSA: Web Applications - Certified 2020" href="/badges/91cdc12f-83f7-49e1-870d-9cefa9d03ae3">
-                            <div class="cr-public-earned-badge-grid-item__container">
-                                <div class="cr-standard-grid-item-content c-badge c-badge--medium"><img class="cr-standard-grid-item-content__image" src="https://images.credly.com/size/220x220/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png" width="110" alt="MCSA: Web Applications - Certified 2020" height="110"></div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="data-table-row data-table-row-grid data-table-row__tweak-no-margin">
-                    <div class="col data-table-content data-table-content__no-margin data-table-content-grid">
-                        <a class="cr-public-earned-badge-grid-item c-grid-item" title="Lifelong Learning" href="/badges/b2f7a9e9-0976-49fa-8827-75a5a341a2cd">
-                            <div class="cr-public-earned-badge-grid-item__container">
-                                <div class="cr-standard-grid-item-content c-badge c-badge--medium"><img class="cr-standard-grid-item-content__image" src="https://images.credly.com/size/220x220/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="110" alt="Lifelong Learning" height="110"></div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
+    {% for graduation in education %}
+    <div class="item">
 
-        </div>
-    </div>
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="degree">{{ graduation.degree }}</h3>
+          <div class="time">{{ graduation.time }}</div>
+        </div><!--//upper-row-->
+
+        <div class="university">{{ graduation.university }}</div>
+      </div><!--//meta-->
+
+      {% if graduation.details %}
+      <div class="details">
+        {{ graduation.details | markdownify }}
+      </div><!--//details-->
+      {% endif %}
+
+    </div><!--//item-->
+    {% endfor %}
 
   </section><!--//section-->
   {% endif %}
 {% endif %}
-
-</section>
