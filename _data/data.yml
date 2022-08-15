@@ -6,7 +6,7 @@ sidebar:
 
     # Profile information
     name: Ayslan Johnson
-    tagline: Líder Técnico / Arquiteto de Sistemas Sênior
+    tagline: Gerente de Desenvolvimento / Arquiteto de Sistemas Sênior / Microsoft Specilist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -40,11 +40,12 @@ sidebar:
 career-profile:
     title: Perfil profissional
     summary: |
-      Arquiteto de sistemas, com 23 anos de experiência, apaixonado por novas tecnologias.
-      Não importa a dificuldade do projeto, mas sim o prazer de vê-lo entregue com qualidade e garantia de segurança.
+      Gerente de Desenvolvimento e Arquiteto de sistemas Hands On, com 25 anos de experiência, apaixonado por novas tecnologias.
+      Não importa a dificuldade do projeto, mas o prazer de vê-lo entregue com qualidade e garantia de segurança.
       
-      <a href="https://www.youracclaim.com/users/ayslan-johnson/badges" target="_blank"><strong><u>MCSA: Web Applications - Certified 2020, Microsoft Specialist</u></strong></a>. 
-      Azure DevOps, CI e CD, Inspeção de código automatizada com SonarQube e NPM Privado.
+      <a href="https://www.youracclaim.com/users/ayslan-johnson/badges" target="_blank"><strong><u>Protfólio de Certificações no Credly</u></strong></a>. 
+      Especialista C#, Azure DevSecOps, CI e CD, Inspeção de código automatizada com SonarQube e Implantação de repositórios Privados (NPM, Docker, Nuget, Maven e outros),
+      Padrão de desenvolvimento, Desenvolvimento de frameworks e componentes especializados. FullStack HandsON.
       
       
 
@@ -64,8 +65,9 @@ experiences:
           - Gerenciamento de demandas e planejamento de cronograma.
           - Acompanhamento e apoio técnico ao time de especialistas nas diversas áraeas.
           - Reunião com o cliente para definição de prioridades, entendimento das demandas, planejamento de execução e implantação.
+          - Coordenação de desenvolvimento de Sistema Web RestFull com IA.
           
-    - role: Arquiteto de Sistemas - Coordenador de Desenvolvimento
+    - role: Arquiteto de Sistemas Enterprise / Gerente de Desenvolvimento
       time: 2020 - 2021
       company: PhDsoft Tecnology
       details: |
