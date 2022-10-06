@@ -23,10 +23,14 @@
     }
     .remove-container.container-block,
     p.title,
+    .cr-standard-grid-item-content__image,
     .cert-profile-image,
     .c-grid-item,
     footer {
         display: none;
+    }
+    .badge-title-print {
+        display: block;
     }
     .skillset .level-bar-inner {
         background-color: black !important;
