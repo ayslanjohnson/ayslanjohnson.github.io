@@ -6,7 +6,7 @@ sidebar:
 
     # Profile information
     name: Ayslan Johnson
-    tagline: Gerente de Desenvolvimento / Arquiteto de Sistemas Sênior / Microsoft Specilist
+    tagline: Gerente de Desenvolvimento/Projetos / Arquiteto de Sistemas Sênior / Microsoft Specilist / Qualidade e Segurança de Software
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -40,13 +40,13 @@ sidebar:
 career-profile:
     title: Perfil profissional
     summary: |
-      Gerente de Desenvolvimento e Arquiteto de sistemas Hands On, com 25 anos de experiência, apaixonado por novas tecnologias.
+      Gerente de Desenvolvimento/projetos, Arquiteto de sistemas Hands On, com 25 anos de experiência, apaixonado por novas tecnologias.
       Não importa a dificuldade do projeto, mas o prazer de vê-lo entregue com qualidade e garantia de segurança.
       
       <a href="https://www.youracclaim.com/users/ayslan-johnson/badges" target="_blank"><strong><u>Protfólio de Certificações no Credly</u></strong></a>. 
       Especialista C#, Azure DevSecOps, CI e CD, Inspeção de código automatizada com SonarQube e Implantação de repositórios Privados (NPM, Docker, Nuget, Maven e outros),
-      Padrão de desenvolvimento, Desenvolvimento de frameworks e componentes especializados. FullStack HandsON.
-      
+      Padrões de desenvolvimento, Desenvolvimento de frameworks e componentes especializados. FullStack HandsON, Infraestrutura, Cloud, Garantia de Qualidade e Inspeçãode 
+	  de Software.      
       
 
 education:
@@ -62,10 +62,11 @@ experiences:
         Coordenação de equipe de especialistas: Infraestrutura, Segurança, Banco de Dados, Redes, ITSM, Arquitetura de Sistemas e Suporte.
         Atuação com tecnologias Microsoft, Fortinet, Netbackup, Citrix, Zabbix, Sonar Qube, AzureDevOps, VMWare, e outras.
         
-          - Gerenciamento de demandas e planejamento de cronograma.
-          - Acompanhamento e apoio técnico ao time de especialistas nas diversas áraeas.
-          - Reunião com o cliente para definição de prioridades, entendimento das demandas, planejamento de execução e implantação.
-          - Coordenação de desenvolvimento de Sistema Web RestFull com IA.
+          - Gerenciamento de demandas e projetos
+		  - Planejamento de cronogramas de Prospecção e atividades
+          - Acompanhamento e apoio técnico ao time de especialistas nas diversas áreas (Banco de dados, Redes, Segurança, Infraestrutura, Arquitetura de Sistemas e Suporte de TI).
+          - Reunião com o cliente para definição de prioridades, entendimento das demandas, planejamento, execução e implantação.
+          - Coordenação de desenvolvimento de Componentes e framework de desenvolvmento
           
     - role: Arquiteto de Sistemas Enterprise / Gerente de Desenvolvimento
       time: 2020 - 2021
@@ -76,10 +77,20 @@ experiences:
         renderização de modelos geométricos em 3D - DigitalTwin. Arquitetura baseada em microserviços Microserviços, 
         Azure DevOps, Azure Storage, Azure Hub, CosmosDB. 
         
-          - Desenvolvimento de toda a arquitetura para migração do sistema desktop para web
+          - Desenvolvimento da arquitetura de Alta disponibilidade para migração de sistemas desktop para web
+		  - Criação de Framework customizado a tecnologias para aceleração do desenvolvimento do sistema
+		  - Criação da Arquitetura do software de forma agnóstica para implantação em qualquer Cloud (Privada ou OpenSource: AWS, Azure, GCP)
+		  - API restfull, Containers, Kubernetes, 
+		  - utilização de ferramentas APM para monitoramento de performance e qualidade
           - Acompanhamento e apoio técnico ao time de desenvolvimento
           - Apoio ao time para desenvolvimento de plugins para softwares de CAD voltados a Engenharia Naval
-          
+		  - Implantação de IoT para monitoramento de Navios com Drone com
+		  - Reconhecimento de rachaduras e ferrugem via Inteligência artificial
+		  - Compactação de requisições em 90% para eficiência nas trnsações embarcadas devido a alta latência de rede e conecção limitada
+		  - Automação de todo o processo de build, testes, gerenciamento de qualidade e implatanção
+		  - Implantação e configuração do Azure DevOps
+		  - Renderização de Plantas 3D com utilização de Javascript 3D Library
+		            
     - role: Líder Técnico
       time: 2018 - 2020
       company: Pixeon Medical Systems S.A
@@ -91,8 +102,10 @@ experiences:
         
           - Manutenção e evolução dos produtos
           - Inovação e eficiência ( melhoria de processos/performance e criação de ferramentas para acelerar/automatizar a implantação )
-          - Consultoria de infraestrutura para melhoria de performance em ambientes do cliente        
-          - Utilização do Jira, criação de dashboards dinâmicos
+          - Consultoria de infraestrutura para melhoria de performance em ambientes do cliente
+		  - Atendimento e acompanhamento a clientes VIP em todo Brasil
+          - Utilização do Jira, 
+		  - Criação de Dashboards dinâmicos no Jira utilizando JQL (Jira Query Language)
 
     - role: Arquiteto de Sistemas Sênior
       time: 2010 - 2018
@@ -109,42 +122,48 @@ experiences:
           - .NET Framework C# (Experiência desde 2001)
           - .NET Core 1.0 e 2.0.x
           - Sql Server
-          - Angular 2, 4, 5 e 6 (Avançado criação de sistemas e <a href="https://github.com/morc3go/environment" target="_blank" rel="nofollow">componentes</a>)
-          - HTML 5, CSS3, javascript (Certificação Microsoft)
-          - Typescript
+          - Angular (Avançado criação de sistemas e <a href="https://github.com/morc3go/environment" target="_blank" rel="nofollow">componentes</a>)
+          - HTML 5, CSS3, Javascript (Certificação Microsoft)
+          - Typescript avançado
           - Criação de componentes (Angular e .NET)
-          - Configuração e instalação do SonarQube, TFS (GIT e TFVC) e NPM Privado
+          - Configuração e instalação do SonarQube, TFS/Azure DevOps (GIT e TFVC), NPM Privado em Docker Container
           - Visual Studio, Visual Studio Core e Eclipse
           - Configuração de repositório Maven Privado (Nexus) para build automático via TFS
+		  - Visual Basic 6
+		  - Consultoria a resolução de problemas à equipe de desenvolvimento (Suporte técnico nível 5)
 
     - role: Analista de Sistemas Sênior
       time: 2009 - 2010
       company: Planserv, Bahia
       details: |
         Analista de sistemas responsável pela equipe de desenolvimento de Dellphi e .NET.
-        Gerenciando a equipe de desenvolvimento para migração do site em asp para o novo site C#.
+        Gerenciando a equipe de desenvolvimento para migração do site em asp (legado) para o novo site em C# com Html5 e CSS3.
         Desenvolvimento da ferramenta de configuração e implantação do sistema de Biometria para beneficiários.
         
           - .NET Framework C#
           - Oracle
-          - HTML 5, CSS3, javascript (Certificação Microsoft)
+          - HTML 5, CSS3, Javascript (Certificação Microsoft)
           - Delphi (Expert)
-          - Certificado Digital
+          - Certificado Digital (Biometria)
           - Criação de componentes (.NET)
+		  - Desenvolvimento/ Migração do Site legado
 
-    - role: Gerente de tecnologia
+    - role: Gerente de Tecnologia/Projetos
       time: 2006 - 2008
       company: GO Comunicações, Bahia
       details: |
-        Responsável pela implantação do servidor Mac e desenvolvimento do sistema de solicitações de clientes.
+        Responsável pela implantação do servidor Mac para acesso a usuários e controles de Quotas de rede e segurança,
+		Desenvolvimento do sistema de solicitações de clientes.
         Também responsável pelo setor de Arte finalização e Criação de campanhas artes gráficas 
         CFA - Conselho Federal de Administração, Primordial e Honda Imperial     
         
           - .NET Framework C#
           - Mac OSX, Mac OS Server
-          - Photoshop, Illustrator, Corel
+          - Photoshop, Illustrator, Corel Draw
+		  - Administração de Redes
+		  - Implantação de Segurança de Software e Infraestrutura
 
-    - role: Supervisor de Informática
+    - role: Supervisor de TI / Analista de Sistemas
       time: 2006 - 2010
       company: SAMU 192, Bahia
       details: |
@@ -157,6 +176,7 @@ experiences:
           - .NET Framework C#
           - SQL Server e MySql
           - Delphi (Expert)
+		  - PHP, XHTML e Javascript
 
     - role: Analista de sistemas Sênior
       time: 2005 - 2006
@@ -166,7 +186,8 @@ experiences:
         
           - .NET Framework C#
           - SQL Server
-          - ASP e ASPX
+          - ASP e ASPX (Webforms)
+		  - HTML e CSS
 # projects:
 #     title: Projects
 #     intro: >
@@ -209,28 +230,28 @@ skills:
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 98%
 
       - name: Microsoft Azure
-        level: 60%
-
-      - name: Typescript
-        level: 90%   
-
-      - name: Delphi
         level: 90%
 
+      - name: Typescript
+        level: 95%   
+
+      - name: Delphi
+        level: 95%
+
       - name: Sql Server
-        level: 85%        
+        level: 90%        
 
       - name: Java
-        level: 40%
+        level: 60%
 
       - name: Asp
         level: 85%
 
       - name: Cosmos DB
-        level: 60%        
+        level: 80%
 
   
 
