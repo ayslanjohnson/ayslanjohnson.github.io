@@ -5,10 +5,17 @@
     body {
         font-size: 12pt;
     }
+    a[href]:after {
+        content: none !important;
+    }
+    img[src]:after {
+        content: none !important;
+    }
     img.avatar {
         //      filter: grayscale(1);
         //      -webkit-filter: greyscale(1);
-        max-width: 80%;
+        border: 5px solid #fff !important;
+        width: 200px;
     }
     .main-wrapper .time {
         float: right;
@@ -19,22 +26,30 @@
         position: static;
         float: right;
         width: 40%;
+        background-color: #cecece !important;
+        margin-left: 10px !important;
         -webkit-print-color-adjust: exact;
     }
     .remove-container.container-block,
-    p.title,
     .cr-standard-grid-item-content__image,
     .cert-profile-image,
     .c-grid-item,
     footer {
         display: none;
     }
-    .badge-title-print {
+    .badge-title {
         font-size: 10pt;
         display: block !important;
     }
     .skillset .level-bar-inner {
         background-color: black !important;
         -webkit-print-color-adjust: exact;
+        page-break-before: always;
+    }
+    .level-bar {
+        background-color: #f5f5f5 !important;
+    }
+    .skills-section {
+        page-break-before: always;
     }
 }
