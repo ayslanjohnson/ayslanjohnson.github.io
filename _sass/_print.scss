@@ -21,17 +21,14 @@
         width: 40%;
         -webkit-print-color-adjust: exact;
     }
-    .remove-container.container-block {
-        display: none;
-    }
+    .remove-container.container-block,
+    p.title,
+    .c-grid-item,
     footer {
         display: none;
     }
     .skillset .level-bar-inner {
         background-color: black !important;
         -webkit-print-color-adjust: exact;
-    }
-    p.title {
-        font-size: 9pt;
     }
 }
