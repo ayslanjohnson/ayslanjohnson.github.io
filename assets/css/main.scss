@@ -1,6 +1,8 @@
---- --- @charset "utf-8";
+--- --- 
+@charset "UTF-8";
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
 @import "default"; // main partials
+
 .feed-s-hero-entity__image {
     position: absolute;
     top: 0;
